@@ -1,0 +1,31 @@
+h1 {
+    color:rgba(69, 169, 216, 0.89);
+}
+
+body {
+    width: 700px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 30px;
+    margin: auto;
+    background-color: rgba(69, 169, 216, 0.89);
+}
+
+.main {
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.result {
+    padding: 10px;
+    border: 2px solid rgb(233, 175, 14);
+}
+
+button {
+    background-color: rgba(22, 160, 224, 0.781);
+    color: white;
+    padding: 8px 12px;
+}
